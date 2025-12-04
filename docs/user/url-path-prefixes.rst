@@ -96,7 +96,7 @@ URL path prefix customization is a |com_brand| feature.
 To enable this feature for your project:
 
 #. Ensure you have a Pro plan or higher subscription.
-#. Contact `Read the Docs support <https://docs.readthedocs.io/page/support.html>`_
+#. Contact :doc:`Read the Docs support </support>`
    with your project name and desired URL structure.
 #. Our support team will configure the custom prefixes for your project.
 
